@@ -1,4 +1,4 @@
-# Comando---GIT
+# ComandoS---GIT---MAVEN
 
 <strong>git remote -v </strong> ===  mostra o endereço do repositório remoto para o qual estamos enviando nossos códigos.<br>
 <strong>git branch </strong> ===  lista todas as branches presentes no repositório do seu computador.<br>
