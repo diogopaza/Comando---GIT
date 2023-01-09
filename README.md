@@ -6,6 +6,6 @@
 <strong>git blame nome-do-arquivo </strong> ===  mostra quem alterou cada linha de um arquivo.<br>
 <strong>git config --global user.name "novoNome" </strong> === definindo o nome do usuario do GIT.<br>
 <strong>git config --global user.name </strong> === verifica o nome do usuario do GIT.<br>
-<strong>git stash</strong> === cria uma branch temporaria contendo a versao atual do projeto e após isso vai desfazer as modificações feitas nos arquivos da sua branch atual.<br>
+<strong>git stash</strong> === cria uma branch temporaria contendo a versao atual do projeto e após isso vai desfazer as modificações feitas nos arquivos da sua branch atual.<em>Ou seja o git stash remove oque está no git status, as modificações na maquina local, e guarda essa modificações numa branch propria do git stash que pode ser verificada com o comando git stash list.</em><br>
 
 
