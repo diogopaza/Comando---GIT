@@ -20,4 +20,7 @@
 <strong>git stash -p</strong> === também é possível escolher fazer o stashing no único arquivo, uma coleção de arquivos, ou mudanças individuais de dentro de arquivos. Se você passar a opção -p (ou --patch) ao git stash, ele vai percorrer cada "fragmento" alterado na cópia de trabalho e perguntar se você quer fazer o stashing.<br>
 <strong>git stash branch</strong> === para criar uma nova ramificação para aplicar alterações com stashing.<br>
 
+<h3>GIT CHERRY PICK </h3>
+
+
 
