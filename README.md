@@ -22,8 +22,9 @@
 
 <h3>GIT CHERRY PICK </h3>
 
-<p>Exemplo de aplicacao de cherry pick</p>
-<p>Duas branch são usadas neste exemplo a master e a big-feature. Inicialmente a branch master tem apenas um arquivo chamado de index.html. A branch big-feature tem um arquivo index.html e um segundo arquivo chamdo de novo-index.html.</p>
+<p>Exemplo de aplicacao do cherry pick</p>
+<strong>git cherry-pick hasCommit </strong> ===  tráz para a branch atual as modificacoes do commit desejado.<br>
+<p>Duas branch são usadas neste exemplo a master e a big-feature. Inicialmente a branch master tem apenas um arquivo chamado de index.html. A branch big-feature tem um arquivo index.html e um segundo arquivo chamdo de novo-index.html. Com o uso do comando <strong>git cherry-pick hashCommit</strong> é trazido para a branch atual apenas as modificacoes do commit especificado na flag do comando cherry-pick</p>
 <p></p>
 
 
